@@ -15,7 +15,6 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-
 mail = input("Enter the email subject line: ")
 
 print("SECURITY ASSESSMENT:")
@@ -34,7 +33,6 @@ else:
 
 print("------------------------")
 print(f"Analyzed subject: {mail}")
-
 
 
 
